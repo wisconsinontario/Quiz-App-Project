@@ -76,6 +76,7 @@ h3 {
     text-decoration: none;
     color: #56a5eb;
     background-color: white;
+   /* border-radius: 3rem;*/
 }
 .btn:hover {
     cursor: pointer;
